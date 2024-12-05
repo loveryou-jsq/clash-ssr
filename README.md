@@ -9,26 +9,16 @@
 ### 适合中国大陆使用的vpn加速器–预览表
 
 <table>
-  
   <tr>
-    
-     <th>加速器名称</th>
-   
-     <th>加速器优势</th>
-    
-     <th>官网地址</th>
-  
+    <th>加速器名称</th>
+    <th>加速器优势</th>
+    <th>官网地址</th>
   </tr>
-  
   <tr>
-    
-    <td>DOVE加速器</td>
-   
+    <td>AHA加速器</td>
     <td>超快网速、免费试用、极速稳定畅享1080P+</td>
-    
     <td><a href="https://dove8.cc/a.php?alavBTtF8UB">官网下载地址</a></td>
- 
- </tr>
+  </tr>
  
  <tr>
     
